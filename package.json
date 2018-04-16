@@ -18,6 +18,6 @@
 		"commander" : "~0.5",
 		"jshint" : "~0.9",
 		"uglify-js" : "2.3.x",
-		"hbs" : "~1.0"
+		"hbs" : "~4.0"
 	}
 }
